@@ -50,7 +50,7 @@ The list of things to bring on the long winding journey to Scotland.
   - Gauze
   - Compresses
   - Bandage
-  - Antisceptic wipes
+  - Antiseptic wipes
   - Tweezers
 - **Toilet paper** (shared)
 
