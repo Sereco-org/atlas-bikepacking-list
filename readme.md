@@ -1,99 +1,112 @@
-#### THE ROAD TO CALEDONIA 
-# Graduation tour 
+#### THE ROAD TO CALEDONIA
 
-The list of things to bring on the long winding journey to Scotland. 
+# Graduation tour
 
-## Clothes 
-### On the bike 
-- **Helmet**  
-- **Socks** 4x 
+The list of things to bring on the long winding journey to Scotland.
+
+## Clothes
+
+### On the bike
+
+- **Helmet**
+- **Socks** 4x
 - **Buff** 2x
-- **Baselayer** 2x 
-- **SPD Shoes** 
+- **Baselayer** 2x
+- **SPD Shoes**
 - **Rain pants**
 - **Arm warmers**
-- **Leg warmers** 
+- **Leg warmers**
 - **Shoe covers**
 - **Pack jacket**
 - **Rain jacket**
 - **Bike glasses**
-- **Bike shorts** 
+- **Bike shorts**
 - **Long fingered gloves**
 
+### Off the bike
 
-### Off the bike 
-- **Merino shirt** 
+- **Merino shirt**
 - **Packable pants**
-- **Shorts/Swimtrunks** 
-- **Camp shoes** 
-- **Underwear** 2x 
+- **Shorts/Swimtrunks**
+- **Camp shoes**
+- **Underwear** 2x
 - **Camp jacket**
-    - Northumberland hits an average of 11 degrees at night in June + windy + rain, a small, warm jacket might be useful. 
+  - Northumberland hits an average of 11 degrees at night in June + windy + rain, a small, warm jacket might be useful.
 
 ## Medicine + Toiletries
-- **Bandaids** 
+
+- **Bandaids**
 - **Bar shampoo**
 - **Toothbrush**
 - **Toothpaste**
 - **Painkillers**
-- **Hand sanitizer**  
-- **Antibiotic salve** 
-- **Lip balm w SPF** 
+- **Hand sanitizer**
+- **Antibiotic salve**
+- **Lip balm w SPF**
 - **Matte! Sunscreen**
 - **Laundry sachets**
 - **First Aid** (shared)
-    - Scissors 
-    - Gauze
-    - Compresses 
-    - Bandage
-    - Antisceptic wipes
-    - Tweezers
+  - Scissors
+  - Gauze
+  - Compresses
+  - Bandage
+  - Antisceptic wipes
+  - Tweezers
 - **Toilet paper** (shared)
 
-## Equipment 
-### Mounted 
+## Equipment
+
+### Mounted
+
 - **Front light**
-- **Rear light** 
-- **Wahoo Bolt** 
-- **Water Bottles** 1-2x 
-- **Reflective Swedish flag?** 
+- **Rear light**
+- **Wahoo Bolt**
+- **Water Bottles** 1-2x
+- **Reflective Swedish flag?**
 
-### Tools 
-- **Multi-tool** 
+### Tools
+
+- **Multi-tool**
 - **Mini pump**
-- **Tire levers** 2x 
-- **Spoke tool**  (shared)
+- **Tire levers** 2x
+- **Plug Kit** (shared)
+- **Spoke tool** (shared)
 
-### Spares 
+### Spares
+
 - **Chain**
-- **Patch kit** 
+- **Patch kit**
 - **Inner tube**
-- **Brake pads** 
-- **Sealant tube** 
-- **Electrical tape** 
-- **Quick link** 2x 
+- **Brake pads**
+- **Sealant tube**
+- **Electrical tape**
+- **Derailleur Hanger**
+- **Quick link** 2x
 - **Chain lube** (shared)
-- **Misc bolts**  (shared)
-- **Mini-grease**  (shared)
+- **Misc bolts** (shared)
+- **Mini-grease** (shared)
 - **Spokes** (optional)
 
-### Utensils 
-- **Spork** 
+### Utensils
+
+- **Spork**
 - **Knife/Swiss army knife**
 
 ### Miscellaneous
+
 - **Passport**
-- **EU Health card** 
+- **EU Health card**
 - **Pencil/Pen**
 - **Notebook/Drawing book**
-- **Battery pack** 
-- **Charging cables, one per device** 
-- **Fast charger** 
+- **Battery pack**
+- **Charging cables, one per device**
+- **Fast charger**
 - **Portable towel**
 
-### Packing 
-- **Frame bag** 
-- **Saddle bag** 
+### Packing
+
+- **Frame bag**
+- **Saddle bag**
 - **Burrito bag** (optional)
 - **Seatpost bag**
 - **Bike straps** (4x)
@@ -101,7 +114,8 @@ The list of things to bring on the long winding journey to Scotland.
 - **Ziploc bags** (2x)
 - **ICA bags** (go nuts)
 
-### Camping 
+### Camping
+
 - **Sleeping bag**
 - **Sleeping mat**
 - **Tent** (shared)
