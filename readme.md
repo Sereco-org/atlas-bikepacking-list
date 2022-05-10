@@ -30,7 +30,7 @@ The list of things to bring on the long winding journey to Scotland.
 - **Shorts/Swimtrunks**
 - **Camp shoes**
 - **Underwear** 2x
-- **Camp jacket**
+- **Camp jacket (puff!)**
   - Northumberland hits an average of 11 degrees at night in June + windy + rain, a small, warm jacket might be useful.
 
 ## Medicine + Toiletries
