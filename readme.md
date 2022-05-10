@@ -102,6 +102,7 @@ The list of things to bring on the long winding journey to Scotland.
 - **Charging cables, one per device**
 - **Fast charger**
 - **Portable towel**
+- **Headlamp** (shared)
 
 ### Packing
 
