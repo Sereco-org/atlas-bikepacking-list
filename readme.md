@@ -103,6 +103,7 @@ The list of things to bring on the long winding journey to Scotland.
 - **Fast charger**
 - **Portable towel**
 - **Headlamp** (shared)
+- **Zipties** (shared)
 
 ### Packing
 
@@ -111,7 +112,7 @@ The list of things to bring on the long winding journey to Scotland.
 - **Burrito bag** (optional)
 - **Seatpost bag**
 - **Bike straps** (4x)
-- **Dry Pack Bag**
+- **Dry Pack Bags** (2x)
 - **Ziploc bags** (2x)
 - **ICA bags** (go nuts)
 
