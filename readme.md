@@ -1,37 +1,26 @@
-#### THE ROAD TO CALEDONIA
+#### ATLAS: IN THE MIDST OF TITANS
 
-# Graduation tour
-
-The list of things to bring on the long winding journey to Scotland.
+The list of things to bring into the red hills of the Atlas mountains.
 
 ## Clothes
 
 ### On the bike
 
 - **Helmet**
-- **Socks** 4x
-- **Buff** 2x
-- **Baselayer** 2x
-- **SPD Shoes**
-- **Rain pants**
-- **Arm warmers**
-- **Leg warmers**
-- **Shoe covers**
+- **Socks** 3x
+- **Buff** 1x
+- **Biking Shoes**
+- **UV Arm warmers**
 - **Pack jacket**
-- **Rain jacket**
 - **Bike glasses**
-- **Bike shorts**
-- **Long fingered gloves**
+- **Bike shorts** 2x
+- **Bike jerseys** 2x 
 
 ### Off the bike
 
-- **Merino shirt**
-- **Packable pants**
 - **Shorts/Swimtrunks**
-- **Camp shoes**
 - **Underwear** 2x
 - **Camp jacket (puff!)**
-  - Northumberland hits an average of 11 degrees at night in June + windy + rain, a small, warm jacket might be useful.
 
 ## Medicine + Toiletries
 
@@ -60,9 +49,8 @@ The list of things to bring on the long winding journey to Scotland.
 
 - **Front light**
 - **Rear light**
-- **Wahoo Bolt**
-- **Water Bottles** 1-2x
-- **Reflective Swedish flag?**
+- **Headunit**
+- **Water Bottles** 2x
 
 ### Tools
 
@@ -95,9 +83,6 @@ The list of things to bring on the long winding journey to Scotland.
 ### Miscellaneous
 
 - **Passport**
-- **EU Health card**
-- **Pencil/Pen**
-- **Notebook/Drawing book**
 - **Battery pack**
 - **Charging cables, one per device**
 - **Fast charger**
@@ -111,10 +96,9 @@ The list of things to bring on the long winding journey to Scotland.
 - **Saddle bag**
 - **Burrito bag** (optional)
 - **Seatpost bag**
-- **Bike straps** (4x)
-- **Dry Pack Bags** (2x)
+- **Bike straps** (2x)
+- **Dry Pack Bags**
 - **Ziploc bags** (2x)
-- **ICA bags** (go nuts)
 
 ### Camping
 
