@@ -50,7 +50,7 @@ The list of things to bring into the red hills of the Atlas mountains.
 - **Front light**
 - **Rear light**
 - **Headunit**
-- **Water Bottles** 2x
+- **Water Bottles** (2x-3x)
 
 ### Tools
 
@@ -64,8 +64,7 @@ The list of things to bring into the red hills of the Atlas mountains.
 
 - **Chain**
 - **Patch kit**
-- **Inner tube**
-- **Brake pads**
+- **Inner tubes**
 - **Sealant tube**
 - **Electrical tape**
 - **Derailleur Hanger**
@@ -94,11 +93,11 @@ The list of things to bring into the red hills of the Atlas mountains.
 
 - **Frame bag**
 - **Saddle bag**
-- **Burrito bag** (optional)
 - **Seatpost bag**
 - **Bike straps** (2x)
 - **Dry Pack Bags**
-- **Ziploc bags** (2x)
+- **Burrito bag** (If unavoidable)
+
 
 ### Camping
 
